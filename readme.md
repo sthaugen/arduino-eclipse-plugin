@@ -227,11 +227,11 @@ and change the following from their defaults.
 
 My current settings are as follows:
 
-![alt text]("images_plugin_dev_setup/Screenshot-Preferences 1.png" "screen capture")
-![alt text]("images_plugin_dev_setup/Screenshot-Preferences 2.png" "screen capture")
-![alt text]("images_plugin_dev_setup/Screenshot-Preferences 3.png" "screen capture")
-![alt text]("images_plugin_dev_setup/Screenshot-Preferences 4.png" "screen capture")
-![alt text]("images_plugin_dev_setup/Screenshot-Preferences 5.png" "screen capture")
+![alt text](images_plugin_dev_setup/Screenshot-Preferences1.png "screen capture")
+![alt text](images_plugin_dev_setup/Screenshot-Preferences2.png "screen capture")
+![alt text](images_plugin_dev_setup/Screenshot-Preferences3.png "screen capture")
+![alt text](images_plugin_dev_setup/Screenshot-Preferences4.png "screen capture")
+![alt text](images_plugin_dev_setup/Screenshot-Preferences5.png "screen capture")
 
  * Name shadowing and conflicts: Set all to Warning.
  * Unnecessary code: Set all to Warning.
